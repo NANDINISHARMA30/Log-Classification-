@@ -24,4 +24,7 @@ Logs are a critical source of operational insight but are often noisy and unstru
 - Deploying model as REST API
 - Using advanced embeddings (BERT, RoBERTa)
 
+📄 License
+- Distributed under the MIT License.
+
 
