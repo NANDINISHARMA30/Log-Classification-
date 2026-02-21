@@ -16,4 +16,12 @@ Logs are a critical source of operational insight but are often noisy and unstru
 - **Evaluate & visualize performance**
 - **Deploy or integrate the classifier**
 
+## 🛠️ Modularity
+
+- You can expand this project by:
+- Adding support for deep learning classifiers
+- Integrating with logging pipelines
+- Deploying model as REST API
+- Using advanced embeddings (BERT, RoBERTa)
+
 
