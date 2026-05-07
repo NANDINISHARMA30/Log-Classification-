@@ -20,8 +20,7 @@ Logs are a critical source of operational insight but are often noisy and unstru
 
 - You can expand this project by:
 - Adding support for deep learning classifiers
-- Integrating with logging pipelines
-- Deploying model as REST API
+- Integrating with logging pipelines and deploying model as REST API
 - Using advanced embeddings (BERT, RoBERTa)
 
 📄 License
